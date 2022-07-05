@@ -6,7 +6,7 @@
     "name": "Jack & Jones Men's T-Shirt",
     "rate": 5,
     "reviewCount": 10,
-    "price": 59.99,
+    "price": 84.99, 
     "discount": 20,
     "new": true,
     "quantity": 8,
@@ -18,7 +18,7 @@
       {
         "name": "XL"
       },
-      {
+      { 
         "name": "L"
       }
     ],
