@@ -27,10 +27,10 @@
       "/assets/images/products/clothes/2.png"
     ],
     "images": [
-      "/assets/images/products/clothes/1.png",
-      "/assets/images/products/clothes/2.png",
-      "/assets/images/products/clothes/3.png",
-      "/assets/images/products/clothes/4.png"
+      "https://i.postimg.cc/vHJDGPSw/istockphoto-584479824-612x612.jpg",
+      "https://i.postimg.cc/vHJDGPSw/istockphoto-584479824-612x612.jpg",
+      "https://i.postimg.cc/vHJDGPSw/istockphoto-584479824-612x612.jpg",
+      "https://i.postimg.cc/vHJDGPSw/istockphoto-584479824-612x612.jpg"
     ],
     "description": "Jack & Jones Men's T-Shirt",
     "slug": "jack-jones-mens-t-shirt-1"
@@ -813,8 +813,8 @@
     "discount": 50,
     "quantity": 8,
     "thumbImage": [
-      "/assets/images/products/electronic/2.png",
-      "/assets/images/products/electronic/3.png"
+      "https://www.lg.com/in/images/tvs/md07505286/gallery/43UN7300PTC-D-01-V1.jpg",
+      "https://www.lg.com/us/images/tvs/md08000230/gallery/medium01.jpg"
     ],
     "images": [
       "/assets/images/products/electronic/2.png",
@@ -822,7 +822,7 @@
       "/assets/images/products/electronic/4.png",
       "/assets/images/products/electronic/5.png"
     ],
-    "description": "",
+    "description": "Lg smart tv with android in-build features",
     "slug": "lg-smart-tv-4k-55-inch-36"
   },
   {

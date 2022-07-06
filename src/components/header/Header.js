@@ -11,7 +11,7 @@ function Header({ containerType, headerStyle }) {
       default:
         return "default";
     }
-  };
+  };                                      
   return (
     <div className={`header-one ${renderStyleClass(headerStyle)}`}>
       <TopNav containerType={containerType} />
