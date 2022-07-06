@@ -452,16 +452,16 @@
     "price": 8,
     "quantity": 6,
     "thumbImage": [
-      "/assets/images/products/fruits/3.png",
-      "/assets/images/products/fruits/4.png"
+      "https://www.collinsdictionary.com/images/full/tomato_281240360.jpg",
+      "https://www.shopmassystoresbb.com/wp-content/uploads/2022/02/0000000004950.jpg"
     ],
     "images": [
-      "/assets/images/products/fruits/3.png",
-      "/assets/images/products/fruits/4.png",
-      "/assets/images/products/fruits/5.png",
-      "/assets/images/products/fruits/6.png"
+      "https://www.rhs.org.uk/getmedia/88c682f4-a291-47ee-a5cb-282bd75680ec/Tomkin-British-Tomato-Growers-Association-National-Plant-Societies-Plant-Heritage-Marquee-Tatton-Park-2012-_PUB0024696.jpg",
+      "https://gardenplannerwebsites.azureedge.net/blog/masses-of-tomatoes-vine-2x.jpg",
+      "https://www.kagomeindia.com/wp-content/uploads/home_welcome-min.jpg",
+      "https://i.ytimg.com/vi/KNrswPdckeQ/maxresdefault.jpg"
     ],
-    "description": "",
+    "description": "Organic - sorted tomatoes with best quality standard.",
     "slug": "tomato-19"
   },
   {
