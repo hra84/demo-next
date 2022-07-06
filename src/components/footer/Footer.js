@@ -83,6 +83,7 @@ function Footer({ containerType }) {
       <div className="footer-bottom">
         <Container type={containerType}>
           <p>Copyright © 2019 &nbsp; <b>RD Legends</b> &nbsp;  All rights reserved</p>
+          <p>created by Harii</p>
         </Container>
       </div>
     </div>
