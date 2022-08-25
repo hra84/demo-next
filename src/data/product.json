@@ -53,6 +53,10 @@
       {
         "color": "blue",
         "colorCode": "#4169E1"
+      },
+      {
+        "color": "yellow",
+        "colorCode": "#fb8117"
       }
     ],
     "thumbImage": [
@@ -99,14 +103,14 @@
       }
     ],
     "thumbImage": [
-      "/assets/images/products/clothes/3.png",
-      "/assets/images/products/clothes/4.png"
+      "https://i.pinimg.com/236x/11/20/15/1120156ac341fdc0e041d12eb1f7e27a.jpg",
+      "https://i.pinimg.com/736x/8e/cc/82/8ecc8246d420fd42e68ffd0d180f2928.jpg"
     ],
     "images": [
-      "/assets/images/products/clothes/3.png",
-      "/assets/images/products/clothes/4.png",
-      "/assets/images/products/clothes/5.png",
-      "/assets/images/products/clothes/6.png"
+      "https://i.pinimg.com/236x/11/20/15/1120156ac341fdc0e041d12eb1f7e27a.jpg",
+      "https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_500,h_1000/https://g3fashion.com/blog/wp-content/uploads/2020/08/formal-e1597729249502.jpg",
+      "https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_500,h_1000/https://g3fashion.com/blog/wp-content/uploads/2020/08/formal-e1597729249502.jpg",
+      "https://images.bewakoof.com/utter/content/2641/content_Black_shirt_with_black_pant.jpg"
     ],
     "description": "",
     "slug": "ivory-check-longline-tunic-shirt-3"
